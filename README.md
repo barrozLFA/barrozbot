@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="Thangamani.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="thangamani" src="https://img.shields.io/badge/thangamani-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="barrozbot" src="https://img.shields.io/badge/barrozbot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Appuzlfa"><img title="Author" src="https://img.shields.io/badge/Author-Appuzlfa/thangamani?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/barrozLFA"><img title="Author" src="https://img.shields.io/badge/Author-barrozLFA/barrozbot?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Appuzlfa">Appuzlfa</a> to make it public
+Project created by <a href="https://github.com/barrozLFA">barrozLFA</a> to make it public
     <br>
        | © |
         Reserved |
