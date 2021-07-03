@@ -20,7 +20,7 @@ Project created by <a href="https://github.com/barrozLFA">barrozLFA</a> to make 
 
   <p align="center">
   <a href="https://github.com/barrozLFA/barrozbot">
-    <img src="https://img.shields.io/github/repo-size/Appuzlfa/thangamani?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/barrozLFA/barrozbot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/barrozLFA/followers"><img title="Followers" src="https://img.shields.io/github/followers/barrozLFA?color=blue&style=flat-square"></a>
 <a href="https://github.com/barrozLFA/barrozbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/barrozLFA/barrozbot?color=blue&style=flat-square"></a>
