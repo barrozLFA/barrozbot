@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="Thangamani.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="Animegirl.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="barrozbot" src="https://img.shields.io/badge/barrozbot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/barrozLFA">barrozLFA</a> to make 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Appuzlfa/thangamani">
+  <a href="https://github.com/barrozLFA/barrozbot">
     <img src="https://img.shields.io/github/repo-size/Appuzlfa/thangamani?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Appuzlfa/followers"><img title="Followers" src="https://img.shields.io/github/followers/Appuzlfa?color=blue&style=flat-square"></a>
-<a href="https://github.com/Appuzlfa/thangamani/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Appuzlfa/thangamani?color=blue&style=flat-square"></a>
-<a href="https://github.com/Appuzlfa/thangamani/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Appuzlfa/thangamani?color=blue&style=flat-square"></a>
-<a href="https://github.com/Appuzlfa/thangamani/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Appuzlfa/thangamani?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/barrozLFA/followers"><img title="Followers" src="https://img.shields.io/github/followers/barrozLFA?color=blue&style=flat-square"></a>
+<a href="https://github.com/barrozLFA/barrozbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/barrozLFA/barrozbot?color=blue&style=flat-square"></a>
+<a href="https://github.com/barrozLFA/barrozbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/barrozLFA/barrozbot?color=blue&style=flat-square"></a>
+<a href="https://github.com/barrozLFA/barrozbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/barrozLFA/barrozbot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
