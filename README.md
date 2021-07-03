@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Appuzlfa&repo=PublicBot&theme=nightowl)](https://github.com/Appuzlfa/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barrozbot&repo=PublicBot&theme=nightowl)](https://github.com/barrozLFA/PublicBot)
   </div>
     
 ## Setup
@@ -61,8 +61,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Appuzlfa/thangamani
-$ cd thangamani
+$ git clone https://github.com/barrozLFA/barrozbot
+$ cd barrozbot
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -71,8 +71,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Appuzlfa/thangamani
-$ cd thangamani
+$ git clone https://github.com/barrozLFA/barrozbot
+$ cd barrozbot
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -92,9 +92,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Appuzlfa](https://github.com/Thangamani.jpg?size=100)](https://github.com/Appuzlfa) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![barrozLFA](https://github.com/Animegirl.jpg?size=100)](https://github.com/barrozLFA) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Appuzlfa](https://github.com/Appuzlfa)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[barrozLFA](https://github.com/barrozLFA)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
